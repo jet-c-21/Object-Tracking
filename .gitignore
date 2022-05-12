@@ -1,3 +1,13 @@
+# Customerization
+.idea
+.virtual_documents
+README.md.backup
+kite_tutorial.ipynb
+*.zip
+.DS_store
+/data
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
